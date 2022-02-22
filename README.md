@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Let's connect!
+### [Calendly Scheduling](https://calendly.com/javadrift)
 <!--
 **ericli1996/ericli1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
