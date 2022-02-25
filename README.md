@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello World! 🌏
+- 🤓 I am currently Frontend Lead Developer at OUR Tech. OUR Tech is a startup tech consultancy with a mission to increasing business ownership in the Black community by providing novel technological solutions.
+- 📝 Skilled in HTML, CSS, TypeScript, Javascript, React, React Native, Object-oriented programming, Cypress, Frontend Web Development.
+- 🌶 Current learning: Exploring all the possibilities of React Native on iOS, Svelte
 
 ### Let's connect!
-### [Calendly Scheduling](https://calendly.com/javadrift)
+- [Calendly Scheduling](https://calendly.com/javadrift)
+- [LinkedIn](https://www.linkedin.com/in/dorifuto-dev/)
 <!--
 **ericli1996/ericli1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
