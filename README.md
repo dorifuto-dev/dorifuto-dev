@@ -1,7 +1,7 @@
 ### Hello World! 🌏
 - 🤓 I am currently Frontend Lead Developer at OUR Tech. OUR Tech is a startup tech consultancy with a mission to increasing business ownership in the Black community by providing novel technological solutions.
 - 📝 Skilled in HTML, CSS, TypeScript, Javascript, React, React Native, Object-oriented programming, Cypress, Frontend Web Development.
-- 🌶 Current learning: Exploring all the possibilities of React Native on iOS, Svelte
+- 🌶 Current learning: React Native, Svelte, AWS Lambda, WebSockets
 
 ### Let's connect!
 - [Calendly Scheduling](https://calendly.com/javadrift)
