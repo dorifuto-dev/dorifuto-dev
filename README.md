@@ -1,4 +1,4 @@
-## Hello World! 🌏
+# Hello World! 🌏
 - Javascript is cool
 ### Let's connect!
 - [Calendly Scheduling](https://calendly.com/javadrift)
