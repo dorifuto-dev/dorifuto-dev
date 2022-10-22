@@ -1,5 +1,6 @@
 # Hello World! 🌏
-- Javascript is cool
+- Javascript is cool and fun <img width="25" alt="Screen Shot 2022-10-21 at 8 30 05 PM" src="https://user-images.githubusercontent.com/75854628/197315162-af9757aa-30f7-4e57-b630-48f86b679359.png">
+
 ### Let's connect!
 - [Calendly Scheduling](https://calendly.com/javadrift)
 - [LinkedIn](https://www.linkedin.com/in/dorifuto-dev/)
